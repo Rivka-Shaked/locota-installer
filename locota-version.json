@@ -1,11 +1,1 @@
-{
-	"version": "1.1.4",
-	"notes": "Version: 1.1.4",
-	"pub_date": "2023-06-15T12:55:01Z",
-	"platforms": {
-		"windows-x86_64": {
-			"signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHBLWW1xRmdrMGlOYmVqRmpER3V2M2NlSm9aWDR3VDh2alh5THFoMFVzSHR4QW9EUmxTbVk1b0laRHUzWEEvZXhxcVZHd3dWeVJSN1l6TnN5aTRMaFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg2ODIxNjg1CWZpbGU6TG9jb3RhXzEuMS40X3g2NF9lbi1VUy5tc2kuemlwCk9id08ydW1QQ3EyV1FodS9weGdicE1HaE8xZ3BuQ251UlV3R0hFNVFudUtwWiswWEFTVEg5N0dpRytoazZCWXE4V0lIbDZSWXFOcWlRQzVVQ0o4MUNRPT0K",
-			"url": "https://raw.githubusercontent.com/Rivka-Shaked/locota-installer/main/Locota.msi.zip"
-		}
-	}
-}
+{"version":"1.1.10","notes":"Version: 1.1.10","pub_date":"2023-06-21T13:45:00Z","platforms":{"windows-x86_64":{"signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVScHRLWnQ1YjdPTHBycUZManEyZ1Z1VWJzRk1PaytRUTlMSzlqNlRlejNSdWNIZTRkdnByNkJiZzJMNCt3amF1eXNBM3hmK1dURVErL0w2Y3lGK0RmdkNkL0tBV2JQOXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjg3MzU1MDk4CWZpbGU6TG9jb3RhXzEuMS4xMF94NjRfZW4tVVMubXNpLnppcApIR0ZyUFg3b3dYc3Fkclc0TzlqdUhLM1hCSmc4R3pOcHhZbENWT2lOMzR3b1M0bHNneWM3SnZJdUdHbEdLb2IybHBodjVrNnlrTTZ1QTRoU3R3R2VBQT09Cg==","url":"https://raw.githubusercontent.com/Rivka-Shaked/locota-installer/main/Locota.msi.zip"}}}
